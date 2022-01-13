@@ -1,0 +1,12 @@
+Ürünün barkodu: 102
+Ürünün Yeri: Bala
+Ürünün Sayısı: 5
+Ürünün Fiyatı: 615.0
+Ürünün Boyutu: 5 Dönüm
+****************************************
+Ürünün barkodu: 103
+Ürünün Yeri: Kocaeli
+Ürünün Sayısı: 3
+Ürünün Fiyatı: 145.0
+Ürünün Boyutu: 10 dönüm
+****************************************

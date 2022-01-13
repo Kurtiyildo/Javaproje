@@ -1,0 +1,18 @@
+Ürünün barkodu: 100
+Ürünün Yeri: Söğütözü
+Ürünün Sayısı: 15
+Ürünün Fiyatı: 500.0
+Ürünün Boyutu: Satılık
+Ürünün Yaşı: 20
+Ürünün Oda sayısı: 3+1
+Ürünün Balkonlu olma durumu: balkonlu
+****************************************
+Ürünün barkodu: 101
+Ürünün Yeri: Batımerkezi
+Ürünün Sayısı: 3
+Ürünün Fiyatı: 206.61
+Ürünün Boyutu: Kiralık
+Ürünün Yaşı: 5
+Ürünün Oda sayısı: 1+0
+Ürünün Balkonlu olma durumu: Balkonsuz
+****************************************
